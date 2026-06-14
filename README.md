@@ -1,7 +1,7 @@
 <div align="center">
   <table style="border: none; width: auto;">
     <tr>
-      <td style="border: none; vertical-align: middle;"><img src="https://www.escom.ipn.mx/x/ee2021/images/galeriaEE2021/escudo_ESCOM.png" width="200" alt="Logo"></td>
+      <td style="border: none; vertical-align: middle;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpyN3IslD6v1LG-Eo8UDYE-qsyUZ_d4cbJQ&s" width="200" alt="Logo"></td>
       <td style="border: none; vertical-align: middle; text-align: left;">
         <h1>Introducción a la Ciberseguridad</h1>
         <p>Proyectos y tareas de la materia de Introducción a la Ciberseguridad.</p>
