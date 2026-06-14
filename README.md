@@ -5,7 +5,7 @@
       <td style="border: none; vertical-align: middle; text-align: left;">
         <h1>Introducción a la Ciberseguridad</h1>
         <p>Proyectos y tareas de la materia de Introducción a la Ciberseguridad.</p>
-        <p><em>Laboratorio de Ciberseguridad</em></p>
+        <p><em>Laboratorio de Ciberseguridad.</em></p>
       </td>
     </tr>
   </table>
